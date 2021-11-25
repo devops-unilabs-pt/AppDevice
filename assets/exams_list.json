@@ -1,0 +1,162 @@
+[
+  {
+    "description": "Electrocardiograma",
+    "id": "11524-6"
+  },
+  {
+    "description": "Ecografia Abdominal (inclui Pâncreas)",
+    "id": "24558-9"
+  },
+  {
+    "description": "Ecografia Mamária",
+    "id": "24601-7"
+  },
+  {
+    "description": "Ecografia Ginecológica Endovaginal",
+    "id": "24677-7"
+  },
+  {
+    "description": "Ortopantomografia",
+    "id": "24828-6"
+  },
+  {
+    "description": "Ecografia Pélvica (inclui Ginecológica ou Prostática Supra Púbica)",
+    "id": "24869-0"
+  },
+  {
+    "description": "TC Coluna Lombar (inclui Lombo-Sagrada)",
+    "id": "24963-1"
+  },
+  {
+    "description": "Ecografia Tiróide",
+    "id": "25010-0"
+  },
+  {
+    "description": "RX Tórax",
+    "id": "36554-4"
+  },
+  {
+    "description": "Mamografia",
+    "id": "36626-0"
+  },
+  {
+    "description": "RX Coluna Lombar",
+    "id": "36670-8"
+  },
+  {
+    "description": "Ecografia Renal (inclui Supra Renal)",
+    "id": "38036-0"
+  },
+  {
+    "description": "Ecocardiograma",
+    "id": "42148-7"
+  },
+  {
+    "description": "Proteína C reativa, s",
+    "id": "1988-5"
+  },
+  {
+    "description": "T4 livre, s",
+    "id": "3024-7"
+  },
+  {
+    "description": "Hormona tíreo estimulante - TSH, s",
+    "id": "3016-3"
+  },
+  {
+    "description": "Hemoglobina A1c - HbA1c, s",
+    "id": "4548-4"
+  },
+  {
+    "description": "Ferro, s",
+    "id": "2498-4"
+  },
+  {
+    "description": "Ferritina, s",
+    "id": "2276-4"
+  },
+  {
+    "description": "Glicose, s",
+    "id": "2345-7"
+  },
+  {
+    "description": "Ureia, s",
+    "id": "3091-6"
+  },
+  {
+    "description": "Creatinina, s",
+    "id": "2160-0"
+  },
+  {
+    "description": "Ácido úrico, s",
+    "id": "3084-1"
+  },
+  {
+    "description": "Ionograma, Na+K+Cl, s",
+    "id": "24326-1"
+  },
+  {
+    "description": "Colesterol total, s",
+    "id": "2093-3"
+  },
+  {
+    "description": "Colesterol de alta densidade - HDL, s",
+    "id": "2085-9"
+  },
+  {
+    "description": "Triglicerídeos - triglicéridos, s",
+    "id": "2571-8"
+  },
+  {
+    "description": "Aminotransferase da alanina - TGP - ALT, s",
+    "id": "1742-6"
+  },
+  {
+    "description": "Fosfatase alcalina - ALP, s",
+    "id": "6768-6"
+  },
+  {
+    "description": "Gama glutamil transferase - GGT, s",
+    "id": "2324-2"
+  },
+  {
+    "description": "Tempo de protrombina, s",
+    "id": "5902-2"
+  },
+  {
+    "description": "Hemograma, s",
+    "id": "57021-8"
+  },
+  {
+    "description": "Velocidade de sedimentação globular, s",
+    "id": "30341-2"
+  },
+  {
+    "description": "Antigénio específico da próstata total - PSA total, s",
+    "id": "2857-1"
+  },
+  {
+    "description": "Sumária com sedimento - tipo II, urina",
+    "id": "24356-8"
+  },
+  {
+    "description": "Aminotransferase do aspartato - TGO - AST, s",
+    "id": "1920-8"
+  },
+  {
+    "description": "Bacteriológico - urocultura, urina",
+    "id": "630-4"
+  },
+  {
+    "description": "Microalbuminúria, urina",
+    "id": "14957-5"
+  },
+  {
+    "description": "ARN SARS-CoV2 - COVID-19, prod a identificar",
+    "id": "P0342"
+  },
+  {
+    "description": "Atg SARS-CoV2 – COVID-19 ANTIGÉNIO, prod a identificar",
+    "id": "P0394"
+  }
+]
